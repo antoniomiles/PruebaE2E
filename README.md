@@ -3,6 +3,8 @@ Prueba funcional automatizada Serenity BDD
 
 Instrucciones para ejecutar el código desde el "run" de la clase TestRunner:
 
+ ![image](https://github.com/antoniomiles/PruebaE2E/assets/31042668/92a9cf83-8dd3-4de9-b06d-bd2c3903bbfa)
+
 1. Descargar la infraestructura:
    - Descarga la infraestructura "saucedemo" desde el repositorio git (o extrae el código fuente si lo tienes en un archivo ZIP).
 
