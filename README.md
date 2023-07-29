@@ -27,7 +27,7 @@ saucedemo
 
 php
 Copy code
-- El archivo `TestRunner.java` debe estar en el directorio raíz junto con el `chromedriver.exe` y `log4j2.xml`.
+- El archivo `TestRunner.java` debe estar en el directorio raíz.
 
 3. Configuración de dependencias:
 - Asegúrate de tener las dependencias necesarias para ejecutar tu código. Puedes usar Maven o Gradle para gestionar las dependencias. Si estás utilizando Maven, asegúrate de tener las dependencias de Karate y Selenium WebDriver, por ejemplo:
@@ -173,10 +173,10 @@ Copy code
     </build>
 
 </project>
-Descargar el archivo chromedriver.exe:
 
-Asegúrate de tener el archivo chromedriver.exe descargado y colocado en el directorio raíz del proyecto (junto con TestRunner.java y log4j2.xml).
-Puedes descargar el archivo chromedriver.exe desde el sitio web oficial de ChromeDriver: https://sites.google.com/a/chromium.org/chromedriver/downloads
+
+
+
 Configuración del TestRunner:
 
 Asegúrate de que la clase TestRunner esté en el directorio raíz de la infraestructura y que esté configurada correctamente para ejecutar las pruebas.
