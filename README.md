@@ -5,7 +5,7 @@ Instrucciones para ejecutar el código desde el "run" de la clase TestRunner:
 Requisitos previos:
 
 Asegúrate de tener Java JDK 11 instalado en tu sistema.
-Asegúrate de tener Maven instalado en tu sistema (si deseas ejecutar las pruebas desde la terminal).
+Asegúrate de tener Maven 3.9.X instalado en tu sistema.
 
  ![image](https://github.com/antoniomiles/PruebaE2E/assets/31042668/92a9cf83-8dd3-4de9-b06d-bd2c3903bbfa)
 
