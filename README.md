@@ -24,6 +24,7 @@ saucedemo
 ├── chromedriver.exe
 ├── log4j2.xml
 └── TestRunner.java
+└── serenity.properties
 
 php
 Copy code
