@@ -25,7 +25,7 @@ saucedemo
 ├── log4j2.xml
 └── TestRunner.java
 └── serenity.properties
-
+Paso importante: Descarga del archivo "drive.exe" y colocar en la raiz del proyecto
 php
 Copy code
 - El archivo `TestRunner.java` debe estar en el directorio raíz.
